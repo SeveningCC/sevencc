@@ -1,1 +1,1 @@
-# sevencc
+# SevenCC
